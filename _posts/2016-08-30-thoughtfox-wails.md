@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: drama
 title: "Thoughtfox wails"
 date: 2016-08-30
 ---
