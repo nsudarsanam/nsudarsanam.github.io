@@ -1,6 +1,7 @@
 name: Thoughtfox
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+description: Welcome to thoughtfox. Hide away for a while. 
 
 # Set encoding to UTF-8
 encoding: utf-8
