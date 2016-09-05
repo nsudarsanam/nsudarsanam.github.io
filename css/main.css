@@ -7,7 +7,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin: 20px;
+    margin: 60px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
