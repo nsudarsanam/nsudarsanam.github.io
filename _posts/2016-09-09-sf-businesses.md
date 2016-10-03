@@ -76,7 +76,7 @@ That also made me curious about which neighborhoods produced the fewest drivers.
  In constrast, these neighborhoods had much higher incomes. 
 
 <i>Which is the most Airbnb-ed neighborhood?</i> <br>
-Trying to isolate Airbnbs from all the businesses within the “Accommodations” category proved to be tricky. Probably due to ever-changing legislation around short-term rentals, people were more circumspect when registering their Airbnbs. There were far fewer businesses with the words “airbnb” or “bnb”. <br>
+Trying to isolate Airbnbs from all the businesses within the “Accommodations” category proved to be tricky. Presumably due to ever-changing legislation around short-term rentals, people were more circumspect when registering their Airbnbs. There were far fewer businesses with the words “airbnb” or “bnb”. <br>
 Instead, I tried eliminating commercial businesses with a list that contained words like “hotel” or “motel” or “apartments” and further refined the list by eliminating anything that sounded like a business (containing words like “corp”,”trust”).<a href="#caveat2"><i>**</i></a>I then counted the left over businesses across the years.
 
 
