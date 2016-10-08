@@ -177,33 +177,22 @@ dd {
 /* Misc */
 
 hr {
-  margin-top: 60px;
   position: relative;
-  margin: 1.5rem 0;
   border: 0;
   border-top: 1px solid #eee;
   border-bottom: 1px solid #fff;
   content:'...';
+  width:50%;
+  margin-top: 52px;
+  margin-bottom: 52px;
 }
 
-/*hr.section-divider{
-    font-family: medium-content-slab-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
-    font-weight: 400;
-    font-style: italic;
-    font-size: 28px;
-    letter-spacing: .6em;
-}*/
-
-/*
-hr.section-divider{
-    content: '...';
-    display: inline-block;
-    margin-left: .6em;
-    color: rgba(0,0,0,.6);
-    position: relative;
-    top: -30px;
-}*/
-
+figcaption{
+  font-size: 14px;
+  color: rgba(0,0,0,.6);
+  letter-spacing: 0;
+  text-align: center;
+}
 
 abbr {
   font-size: 85%;
